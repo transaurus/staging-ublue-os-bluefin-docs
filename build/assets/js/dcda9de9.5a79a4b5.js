@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbluefin_docusaurus=self.webpackChunkbluefin_docusaurus||[]).push([["4933"],{93040(s){s.exports=JSON.parse('{"blogBasePath":"/reports","blogTitle":"Monthly Reports","authorsListPath":"/reports/authors"}')}}]);

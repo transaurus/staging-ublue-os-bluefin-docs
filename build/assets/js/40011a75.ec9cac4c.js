@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbluefin_docusaurus=self.webpackChunkbluefin_docusaurus||[]).push([["6061"],{35443(e){e.exports=JSON.parse('{"metadata":{"permalink":"/blog/page/4","page":4,"postsPerPage":10,"totalPages":4,"totalCount":31,"previousPage":"/blog/page/3","blogDescription":"Official Blog and Announcements","blogTitle":"Bluefin\'s Blog"}}')}}]);

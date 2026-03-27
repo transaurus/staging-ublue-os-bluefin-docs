@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbluefin_docusaurus=self.webpackChunkbluefin_docusaurus||[]).push([["9590"],{34219(t){t.exports=JSON.parse('{"metadata":{"permalink":"/reports","page":1,"postsPerPage":20,"totalPages":1,"totalCount":5,"blogDescription":"Automated project activity reports from GitHub Project Board","blogTitle":"Monthly Reports"}}')}}]);

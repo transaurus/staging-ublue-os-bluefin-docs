@@ -1,0 +1,53 @@
+castrojo:
+  name: Jorge O. Castro
+  page: true
+  title: Director of Dinosaurs
+  url: https://github.com/castrojo
+  image_url: https://github.com/castrojo.png
+  email: jorge.castro@gmail.com
+  socials:
+    bluesky: "castrojo.bsky.social"
+    mastodon: "@jorge@hachyderm.io"
+    github: "castrojo"
+    linkedin: "jorge-castro2112"
+    youtube: "JorgeCastro"
+    blog: "https://ypsidanger.com"
+
+daegalus:
+  name: Yulian Kuncheff
+  page: true
+  title: Bluefin Contributor
+  url: https://github.com/daegalus
+  image_url: https://github.com/daegalus.png
+  socials:
+    github: "daegalus"
+
+hanthor:
+  name: James Reilly
+  page: true
+  title: Bluefin Contributor
+  url: https://github.com/hanthor
+  image_url: https://github.com/hanthor.png
+  socials:
+    github: "hanthor"
+    bluesky: "reilly.asia"
+    mastodon: "@jreilly112@techhub.social"
+    linkedin: "jreilly112"
+
+renner0e:
+  name: renner
+  page: true
+  title: Bluefin Contributor
+  url: https://github.com/renner0e
+  image_url: https://github.com/renner0e.png
+  socials:
+    github: "renner0e"
+
+tulilirockz:
+  name: Tulip Blossom
+  page: true
+  title: Bluefin Contributor
+  url: https://github.com/tulilirockz
+  image_url: https://github.com/tulilirockz.png
+  socials:
+    github: "tulilirockz"

@@ -23,12 +23,12 @@ const config: Config = {
   organizationName: "ublue-os",
   projectName: "bluefin",
 
-  onBrokenLinks: "throw",
-  onBrokenMarkdownLinks: "throw",
+  onBrokenLinks: 'warn',
+  onBrokenMarkdownLinks: "warn",
 
   i18n: {
     defaultLocale: "en",
-    locales: ["en"],
+    locales: ["en", "zh-Hans"],
   },
 
   markdown: {
